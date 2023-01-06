@@ -16,8 +16,8 @@
 
 <h2>Layout</h2>
 <div align="center">
-    <img width="500px" height="300px" src="https://user-images.githubusercontent.com/80858391/210918460-e38ea880-dfd8-43ef-9b27-b03118d9078b.png">
-    <img width="500px" height="300px" src="https://user-images.githubusercontent.com/80858391/210918467-7cc87c02-8216-4f7d-a724-5bed69acb1da.png">
+    <img width="400px" height="250px" src="https://user-images.githubusercontent.com/80858391/210918460-e38ea880-dfd8-43ef-9b27-b03118d9078b.png">
+    <img width="400px" height="250px" src="https://user-images.githubusercontent.com/80858391/210918467-7cc87c02-8216-4f7d-a724-5bed69acb1da.png">
 </div><br>
 
 <h2>Technologies used</h2>
