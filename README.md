@@ -6,7 +6,7 @@
 <p>The game of pong consists in scoring points, where we have two rackets and a ball, if the ball touches the opponent's wall you score a point. That's basically it.</p>
 <p>I made this exercise based on the programming logic classes (how to make the pong game in JavaScript) at <a href="https://www.alura.com.br/">Alura</a> and you can see my profile of the courses I've done <a href="https://cursos.alura.com.br/user/gabrieldossantossilva69">here.</a></p>
 
-<p>Click on the link below and see the game for yourself, click on the player in the upper left corner and to move your paddle, click on the game screen. <a href="https://editor.p5js.org/gabrieldossantossilva69/sketches/VUazjRvgX">Pong game</a></p>
+<p>Click on the link below and see the game for yourself, click on the player in the upper left corner and to move your paddle, click on the game screen. <a href="https://editor.p5js.org/gabrieldossantossilva69/full/VUazjRvgX">Pong game</a></p>
 <p><b>Detail:</b></p>
 <ul>
   <li><i>You control the left paddle of the game</i></li>
